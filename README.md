@@ -6,8 +6,6 @@
 
   status
   
-  pave
-  
   bolo de cenoura
   
   
